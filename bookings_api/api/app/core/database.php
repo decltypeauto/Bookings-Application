@@ -2,10 +2,10 @@
 
 class Database {
 
-	private $dbHost = "db.hexaneweb.com";
-	private $dbUser = "cynicalc_bookings";
-	private $dbPass = "ye0lkoYu1";
-	private $dbName = "cynicalc_bookings";
+	private $dbHost = ".....";
+	private $dbUser = ".....";
+	private $dbPass = ".....";
+	private $dbName = ".....";
 
 	protected $statement;
 	protected $error;
